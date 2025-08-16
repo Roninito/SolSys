@@ -1,0 +1,11 @@
+{
+  "pathsToIds" : {
+    "\/SolSys\/Sources\/SolSys\/SolSys.rkassets\/Scene.usda" : "4CD23AE2-D994-4E36-AA25-BAF17D57AD50",
+    "SolSys\/Sources\/SolSys\/SolSys.rkassets\/Scene.usda" : "92571E76-1DC0-4E77-A698-023D68E66466"
+  },
+  "projectID" : 2590408334563662606,
+  "uuidToIntID" : {
+    "4CD23AE2-D994-4E36-AA25-BAF17D57AD50" : -5752975503097157039,
+    "92571E76-1DC0-4E77-A698-023D68E66466" : 7104645477711119204
+  }
+}
